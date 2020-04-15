@@ -1,0 +1,31 @@
+_repo: Karkuri_61761
+_version: 0.0.1
+alternative_title: Der Schiffszimmermann. Finnish
+creator:
+  author:
+    agent_name: Gerstäcker, Friedrich
+    aliases:
+    - Gerstaecker, Frederick
+    - Gerstacker, Friedrich
+    - Gerstäcker, Friedrich Wilhelm Christian
+    birthdate: 1816
+    deathdate: 1872
+    gutenberg_agent_id: '8053'
+    url: http://www.gutenberg.org/2009/agents/8053
+    wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
+description: ''
+gutenberg_issued: '2020-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61761'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into Finnish'
+- !lcsh 'Oceania -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: Karkuri
+url: http://www.gutenberg.org/ebooks/61761
